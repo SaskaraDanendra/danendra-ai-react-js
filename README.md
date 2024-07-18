@@ -1,1 +1,1 @@
-demo = https://github.com/SaskaraDanendra/danendra-ai-react-js.git
+demo = https://saskaradanendra.github.io/danendra-ai-react-js/
